@@ -22,7 +22,7 @@ ROS 2's node-based architecture in Python (`rclpy`). Specifically, I mapped
 familiar class/inheritance concepts onto ROS 2 node design.
 
 ## Requirements
-- ROS 2 (Python, `rclpy`) — tested on Humble
+- ROS 2 (Python, `rclpy`), tested on Humble
 - Python 3
 
 ## Running
